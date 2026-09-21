@@ -1,0 +1,24 @@
+company:
+  name: "KT&G"
+  corp_code: ""
+
+dart:
+  base_url: "https://opendart.fss.or.kr/api"
+
+analysis:
+  years: 5
+  report_codes:
+    - "11011"
+    - "11012"
+    - "11013"
+    - "11014"
+
+ratios:
+  - revenue_growth
+  - operating_margin
+  - net_profit_margin
+  - roe
+  - roa
+  - debt_to_equity
+  - current_ratio
+  - equity_ratio
